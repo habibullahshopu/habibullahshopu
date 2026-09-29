@@ -33,17 +33,13 @@ I build web applications and software solutions using modern development technol
 ---
 
 ## 🚀 Featured Projects
+
 ### 🛒 AI-Powered Multi-Vendor E-Commerce
 A multi-vendor e-commerce management platform with product, vendor, cart, order, and administrative features.
 
 **Tech:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server
 
-### 🚌 BusGo AI
-AI-powered bus ticket booking and management system built with ASP.NET Core.
-
-**Tech:** C#, ASP.NET Core, MVC, Entity Framework Core, SQL Server, AI
-
-### 🤖 SmartBeneficiary
+###  SmartBeneficiary
 An AI-powered social welfare beneficiary management system designed to manage beneficiary information and allowance processes.
 
 **Tech:** ASP.NET Core, C#, Entity Framework Core, SQL Server, AI
